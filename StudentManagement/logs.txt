@@ -1,0 +1,15 @@
+@17-06-2025 17:23:17: Choice must be a number
+@17-06-2025 17:23:22: Choice must be a number
+@17-06-2025 17:23:38: The input string 'a' was not in a correct format.
+@17-06-2025 17:25:14: Choice must be a number
+@17-06-2025 17:25:16: Invalid choice. Please try again.
+@17-06-2025 17:25:27: Name cannot be null or empty
+@17-06-2025 17:25:33: Marks must be a number
+@17-06-2025 17:25:47: Student Added
+@17-06-2025 17:26:20: Student Added
+@17-06-2025 17:27:01: Student Added
+@17-06-2025 17:32:05: Marks must be between 0 and 100
+@17-06-2025 17:32:14: Student Added
+@17-06-2025 17:32:34: Student Added
+@17-06-2025 17:38:16: Student Added: ID-1 Name-student 1 Total Marks-273 Grade-D
+@17-06-2025 17:38:21: Exiting the program
