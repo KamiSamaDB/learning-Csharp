@@ -1,0 +1,13 @@
+@12-06-2025 17:52:28 : Input: a | Error: Choice must be a number.
+@12-06-2025 17:52:49 : Input: a | Error: Model must be at least 3 characters long.
+@12-06-2025 17:52:55 : Input: J | Error: Name must be at least 3 characters long.
+@12-06-2025 17:53:00 : Input: m | Error: Rent per day must be a valid number.
+@12-06-2025 17:53:47 : Input: a | Error: Vehicle No. must be at least 4 characters long.
+@12-06-2025 18:00:07 : Input:  | Error: Vehicle No. must be at least 4 characters long.
+@12-06-2025 18:00:14 : Input:  | Error: Vehicle No. must be at least 4 characters long.
+@12-06-2025 18:00:54 : Input:  | Error: Vehicle No. must be at least 4 characters long.
+@12-06-2025 18:33:13 : Input: 123 | Error: Vehicle No. must be at least 4 characters long.
+@12-06-2025 18:40:14 : @12-06-2025 18:40:14 : Bike added successfully.
+@12-06-2025 18:40:19 : Input: a | Error: Choice must be a number.
+@12-06-2025 18:40:32 : Input: n | Error: Vehicle No. must be at least 4 characters long.
+@12-06-2025 18:40:47 : @12-06-2025 18:40:47 : Payment Successful, Rent: 1500, Payment Method: upi, Cashback given: 150

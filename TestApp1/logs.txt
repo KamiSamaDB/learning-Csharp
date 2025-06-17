@@ -1,0 +1,11 @@
+@11-06-2025 17:33:27: input = h | error = Username must be at least 3 characters long
+@11-06-2025 17:33:33: input = H | error = Password must be at least 3 characters long
+@11-06-2025 17:33:38: User h logged in with password: H
+@11-06-2025 17:33:43: input = a | error = Choice must be a number
+@11-06-2025 17:33:52: input = a | error = Age must be a number
+@11-06-2025 17:33:53: input = 1 | error = Age must be at least 18
+@11-06-2025 17:33:55: input = a | error = Contribution must be a number
+@11-06-2025 17:35:54: User  logged in with password: 
+@11-06-2025 17:35:59: input = h | error = Password must be at least 3 characters long
+@11-06-2025 17:36:00: User  logged in with password: h
+@11-06-2025 18:18:33: input = a | error = Username must be at least 3 characters long
